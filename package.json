@@ -1,8 +1,8 @@
 {
-  "name": "phaser-project-template-es6",
-  "version": "3.20.1",
-  "description": "Phaser 3 starter template with ES6 and webpack.",
-  "homepage": "https://github.com/yandeu/phaser-project-template-es6#readme",
+  "name": "gamemaker",
+  "version": "1.00",
+  "description": "GameMaker",
+  "homepage": "https://github.com/brambekkers/gameMaker",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack/webpack.dev.js",
@@ -18,17 +18,12 @@
     "starter"
   ],
   "author": {
-    "name": "Yannick Deubel",
-    "url": "https://github.com/yandeu"
+    "name": "Bram Bekkers",
+    "url": "https://github.com/brambekkers"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yandeu/phaser-project-template-es6.git"
-  },
-  "template": {
-    "name": "phaser-project-template-es6",
-    "url": "https://github.com/yandeu/phaser-project-template-es6",
-    "author": "Yannick Deubel (https://github.com/yandeu)"
+    "url": "https://github.com/brambekkers/gameMaker.git"
   },
   "engines": {
     "node": ">=8.0.0"
