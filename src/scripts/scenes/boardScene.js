@@ -133,13 +133,6 @@ export default class BoardScene extends Phaser.Scene {
             this.player.update();
 
         }
-
-        // // Update board
-        // if (this.aGrid.config.cols != gameOptions.gameSize) {
-        //     this.aGrid = new AlignGrid(this.gridOptions)
-        //     this.aGrid.placeAtIndex(gameOptions.gameSize * gameOptions.gameSize - 1, this.backButton)
-        //     this.scene.restart()
-        // }
     }
 
 
